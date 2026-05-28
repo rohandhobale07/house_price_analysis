@@ -1,4 +1,5 @@
-# house_price_analysis
+House Price Analysis Dashboard 🏠📊
+
 An interactive Power BI dashboard for analyzing house prices, sales performance, inflation, interest rates, and regional trends.
 The project includes advanced DAX calculations, KPI visuals, slicers, bar charts, donut charts, and predictive business insights.
 
